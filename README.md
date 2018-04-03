@@ -8,14 +8,22 @@ Tested on a Macbook Pro with the following features.
 
 OpenGL:
 
-  Version:	16.4.2
+  Version:	16.4.2 
+  
   Obtained from:	Apple
+  
   Last Modified:	29/11/2017 13:14
+  
   Kind:	Intel
+  
   64-Bit (Intel):	Yes
+  
   Signed by:	Software Signing, Apple Code Signing Certification Authority, Apple Root CA
+  
   Get Info String:	OpenGL 16.4.2.0.0
+  
   Location:	/System/Library/Frameworks/OpenGL.framework
+  
   Private:	No
 
 
